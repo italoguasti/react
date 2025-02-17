@@ -12,9 +12,10 @@ Ele pode ser utilizado como referência para estudos pessoais.
 
 O repositório está organizado em três principais diretórios:
 
-- **react** - Conteúdos e práticas relacionadas ao React puro, incluindo conceitos fundamentais, hooks, componentes e gerenciamento de estado.
+- **react** - Conteúdos e práticas estudados relacionadas ao React puro, incluindo conceitos fundamentais, hooks, componentes e gerenciamento de estado.
 - **next-js** - Projetos e estudos voltados para o framework Next.js, explorando SSR, SSG, API Routes e otimizações.
 - **tailwind-css** - Exemplos e projetos que utilizam Tailwind CSS para estilização eficiente de aplicações React.
+- **projects** - Projetos completos abrangendo todas as tecnologias, projetos mais robustos.
 
 ## Projetos
 
